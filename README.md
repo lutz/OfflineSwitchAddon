@@ -1,0 +1,2 @@
+# OfflineSwitchAddon
+Citavi addon
